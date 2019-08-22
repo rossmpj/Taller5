@@ -34,7 +34,7 @@ class CalificacionController extends Controller
     }
 
     /**
-     * Muestra la calificación de un libro a partir de su isbn
+     * Muestra la calificación de un libro a partir del email del usuario
      *
      * @param  \App\Models\Relacional\Calificacion  $calificacion
      * @return \Illuminate\Http\Response
