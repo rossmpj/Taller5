@@ -18,7 +18,7 @@ class AutorSeeder extends Seeder
 	    ]);
 
 	    Autor::create([
-        	'nombres' => 'Mary GrandPré'
+        	'nombres' => 'Mary GrandPre'
 	    ]);
 
 	    Autor::create([

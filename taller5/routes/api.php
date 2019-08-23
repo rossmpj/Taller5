@@ -18,4 +18,5 @@ Route::resource('autores','AutorController');
 Route::resource('libroautores','LibroAutorController');
 Route::resource('libros','LibroController');
 Route::resource('usuarios','UsuarioController');
+Route::resource('historico','HistoricoController');
 
